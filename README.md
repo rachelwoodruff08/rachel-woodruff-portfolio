@@ -4,7 +4,7 @@
 Welcome to my professional portfolio! This repository hosts a collection of my publicly shareable work in **epidemiology**, **public health informatics**, and **data science**. It is published as a GitHub Pages site for easy browsing.
 
 ## 🌐 View the Portfolio
-- **Live Site:** https://rachelwoodruff08.github.io/data-portfolio
+- **Live Site:** https://rachelwoodruff08.github.io/rachel-woodruff-portfolio
 
 ---
 

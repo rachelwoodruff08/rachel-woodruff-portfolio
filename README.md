@@ -20,13 +20,6 @@ Welcome to my professional portfolio! This repository hosts a collection of my p
 
 ---
 
-## 🛠️ Tech Stack
-- **GitHub Pages** + **Jekyll** for static site hosting
-- Markdown for content
-- Optional embeds from Tableau, Power BI, and Shiny apps
-
----
-
 ## 📬 Contact
 - **Email:** rachelwoodruff08@gmail.com
 - **LinkedIn:** [linkedin.com/in/rachelswoodruff](https://linkedin.com/in/rachelswoodruff)

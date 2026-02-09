@@ -23,7 +23,7 @@ Welcome to my professional portfolio! This repository hosts a collection of my p
 ## 📬 Contact
 - **Email:** rachelwoodruff08@gmail.com
 - **LinkedIn:** [linkedin.com/in/rachelswoodruff](https://linkedin.com/in/rachelswoodruff)
-- **GitHub:** [github.com/rachelwoodruff08]
+- **GitHub:** [github.com/rachelwoodruff08](github.com/rachelwoodruff08)
 
 ---
 

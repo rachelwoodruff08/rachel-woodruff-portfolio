@@ -11,7 +11,7 @@ Welcome to my professional portfolio! This repository hosts a collection of my p
 ## 📂 What's Included
 - **index.md** — Homepage with bio and navigation
 - **projects.md** — Selected projects (data pipelines, dashboards, forecasting models)
-- **publications.md** — Peer-reviewed articles and technical reports
+- [Publications](https://github.com/rachelwoodruff08/portfolio/blob/main/publications.md) — Peer-reviewed research articles  
 - **presentations.md** — Conference talks and internal briefings
 - **code.md** — Reusable code snippets and GitHub repositories
 - **dashboards.md** — Interactive dashboards and visualizations

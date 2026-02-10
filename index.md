@@ -1,6 +1,6 @@
 
 ---
-title: Rachel Woodruff — Epidemiology, Public Health Informatics & Data Science Portfolio
+Rachel Woodruff — Epidemiology, Public Health Informatics & Data Science Portfolio
 layout: default
 ---
 

@@ -12,8 +12,7 @@ I’m a public health scientist who’s spent over two decades turning complex d
 ### The 2021 State and City Tuberculosis Report presents key process and outcome measures, covering a range of topics, for tuberculosis (TB) control programs in the United States. 
 
 ---
-- [Publications](https://github.com/rachelwoodruff08/portfolio/blob/main/publications.md) — Peer-reviewed research articles  
-
+- Check out my [publications page](publications) for a list of my peer-reviewed research articles    
 ---
 
 ## 📬 Contact

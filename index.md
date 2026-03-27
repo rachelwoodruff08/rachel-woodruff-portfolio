@@ -18,10 +18,10 @@ The 2021 State and City Tuberculosis Report presents key process and outcome mea
 ## Project 2: National Health and Nutrition Examination Survey (NHANES) 
 NHANES is designed to assess the health and nutritional status of children and adults in the United States. It combines traditional health interviews with physical examinations and laboratory tests. In 1999-2000 and 2011-2012 I co-led the tuberculosis component of NHANES. In the earlier cycle, I designed the questions for the survey and performed quality assurance site visits for TB skin test placement and reading and TB blood test collection. I also spent a lot of time with the data, working alongside a statistician to fix complex measurement issues and co-authoring a major paper on our findings. After the initial study results were published, I did my own deep dive into the data associated with non-U.S.-born persons and published my findings as first author. By the 2011-2012 cycle, I was the primary lead on assuring quality of TB blood test collection, analyzing the data and publishing the findings.
 
-<img src="https://github.com/rachelwoodruff08/portfolio/blob/main/AP_Process%20Map_Screenshot%202026-03-26%20155410.png" width="40%"> <img src="https://github.com/rachelwoodruff08/portfolio/blob/main/AP_Process%20Map_Screenshot%202026-03-26%20155410.png" width="40%">
+<div align="center"> <img src="NHANES 19_20 Title Screenshot 2026-03-26 154437.png" width="60%"> </div>
 
 ### Data Processing Highlights
-I used R to to manage and analyze NHANES data for the country of birth analysis. Click below to see a snippet of code I wrote (and click again to see the full R script).
+I used R to to manage and analyze NHANES data using complex survey methodology. Click below to see a snippet of code I wrote for my country of birth analysis (and click again to see the full R script).
 <!-- Level 1: Snippet -->
 <details>
 <summary><strong>View R Code Snippet</strong> (Click to expand)</summary>

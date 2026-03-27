@@ -11,7 +11,7 @@ I’m a public health scientist who’s spent over two decades turning complex d
 A selection of projects that demonstrate my work with data and informatics.
 
 ## Project 1: [State and City TB Report](https://www.cdc.gov/tb-data/2021-state-city-report/index.html#cdc_report_pub_study_section_6-additional-information)  
-The 2021 State and City Tuberculosis Report presents key process and outcome measures, covering a range of topics, for tuberculosis (TB) control programs in the United States. For this report, I did the analsysis and interpretation which I used to develop the visualizations and narrative in the report. I worked with web-designers to layout the report using Responsive Web Design. 
+The 2021 State and City Tuberculosis Report presents key process and outcome measures, covering a range of topics, for tuberculosis (TB) control programs in the United States. For this report, I did the analysis and interpretation which I used to develop the visualizations and narrative in the report. I worked with web-designers to layout the report using Responsive Web Design. 
 
 <div align="center"> <img src="TB_Report_Screenshot 2026-03-26 153214.png" width = "60%"> </div>
 

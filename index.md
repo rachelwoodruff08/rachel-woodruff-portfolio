@@ -17,9 +17,7 @@ The 2021 State and City Tuberculosis Report presents key process and outcome mea
 
 I also did a more in depth analysis of tuberculosis program performance indicators using data from the National Tuberculosis Indicators Project. My findings, which are intended to help TB programs identify areas for evaluation and improvement, were published as a Surveillance Summary in the CDC Morbidy and Mortality Weekly Report. For this descriptive analysis, I used R and Excel.
 
-<div align="center"> <img src="TA_System Flowchart_Screenshot 2026-03-26 155653.png" width="60%"> 
-  
-<img src="AP_Process Map_Screenshot 2026-03-26 155410.png" width="60%"> </div>
+<div align="center"> <img src="TA_System Flowchart_Screenshot 2026-03-26 155653.png" width="40%"> <img src="NTIP Surveillance Summary Chart.png" width="40%"> </div>
 *Source: Woodruff R, Pratt R, Kolasa M. Progress Toward Tuberculosis Elimination and Tuberculosis Program Performance — National Tuberculosis Indicators Project, 2016–2022. MMWR Surveill Summ 2024;73(No. SS-4):1–18. DOI: http://dx.doi.org/10.15585/mmwr.ss7304a1*
 
 # National Health and Nutrition Examination Survey (NHANES) 

@@ -339,12 +339,12 @@ CTS is a web-based platform that streamlines the submission, triage, planning, a
 ## Check out my [publications page](publications) for a list of my peer-reviewed research articles    
 ---
 
-## 📬 Contact
+## Contact
 - **Email:** rachelwoodruff08@gmail.com
 - **LinkedIn:** [linkedin.com/in/rachelswoodruff](https://linkedin.com/in/rachelswoodruff)
 - **GitHub:** [github.com/rachelwoodruff08](github.com/rachelwoodruff08)
 
 ---
 
-### 🔍 Notes
+### Notes
 - This portfolio includes only a few examples from projects that I have led. For additional examples, please reach out directly.
